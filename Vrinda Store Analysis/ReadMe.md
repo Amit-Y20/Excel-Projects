@@ -18,7 +18,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Dashboard Interaction <a href="https://github.com/Amit-Y20/Excel-Projects/blob/main/Vrinda%20Store%20Analysis/Vrinda%20Store%20Dashboard.png">View Dashboard</a>
 
 ## Dashboard
-![Vrinda Store Analysis/Vrinda Store Dashboard.png].()
+![Vrinda Store Dashboard](https://github.com/Amit-Y20/Excel-Projects/blob/ab593e0709782b7d83e5ef3c606fb8cc6409f90c/Vrinda%20Store%20Analysis/Vrinda%20Store%20Dashboard.png)
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
 - The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
